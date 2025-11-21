@@ -1,4 +1,5 @@
 # Assignment-2-NLP-vs-GenAI
+
 NLP 作業二：傳統 NLP 與 現代 GenAI 方法實作比較
 本專案為自然語言處理 (NLP) 課程作業，旨在透過實作探討「傳統統計式 NLP 技術」與「現代生成式 AI (GenAI)」在文本處理任務上的效能與特性差異。
 
@@ -6,6 +7,7 @@ NLP 作業二：傳統 NLP 與 現代 GenAI 方法實作比較
 專案內容包含手動實作 TF-IDF 演算法、規則式分類器，並串接 Google Gemini API 進行 Embeddings 計算、零樣本分類 (Zero-shot Classification) 與生成式摘要，最終產出詳細的效能比較報告。
 
 ==================📂 專案結構==================
+
 本專案包含三個獨立執行的 Python 腳本與相關設定檔：
 
 tradtional_methods.py: 傳統 NLP 方法實作
@@ -41,6 +43,7 @@ numpy version: 2.0.2
 
 
 ==================💻 執行說明==================
+
 請依序執行以下指令：
 
 步驟 1：執行 Part A (傳統方法)
