@@ -76,7 +76,7 @@ numpy version: 2.0.2
   python comparsion.py
 </pre>
   
-  執行結果：終端機將顯示完整的比較分析表格，並於目錄下生成 performance_metrics.json (包含詳細的時間與效能數據)。
+  執行結果：終端機將顯示完整的比較分析表格，並於目錄下生成 performance_metrics.json及summarization_comparison.txt (包含詳細的時間與效能數據)。
 
 
 **==================📊 產出檔案說明==================**
@@ -88,4 +88,4 @@ numpy version: 2.0.2
 
 2.modern_method：包含原始文本、AI 判讀之情感、主題及信心分數的表格，產出classification_result.csv。
 
-3.comparsion：紀錄傳統方法與 GenAI 在各任務上的處理時間與評測指標，產出performance_metrics.json。
+3.comparsion：紀錄傳統方法與 GenAI 在各任務上的處理時間與評測指標，產出performance_metrics.json及summarization_comparison.txt。
