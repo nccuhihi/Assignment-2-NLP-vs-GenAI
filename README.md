@@ -46,7 +46,8 @@ python part_c.py
 
 📊 產出檔案說明
 執行完畢後，您將獲得以下檔案：
-檔案名稱,描述,來源腳本
 tradtional_methods：文件間的 TF-IDF 餘弦相似度矩陣，產出tfidf_similarity_matrix.csv。
-modern_method：包含原始文本、AI 判讀之情感、主題及信心分數的表格，產出classification_result.csv,。
+
+modern_method：包含原始文本、AI 判讀之情感、主題及信心分數的表格，產出classification_result.csv。
+
 comparsion：紀錄傳統方法與 GenAI 在各任務上的處理時間與評測指標，產出performance_metrics.json。
